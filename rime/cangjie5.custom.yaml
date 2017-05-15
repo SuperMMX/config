@@ -1,0 +1,20 @@
+customization:
+  distribution_code_name: Weasel
+  distribution_version: 0.9.30
+  generator: "Weasel::UIStyleSettings"
+  modified_time: "Wed Mar 08 13:12:48 2017"
+  rime_version: 1.1.2
+patch:
+  "abc_segmentor/extra_tags": {}
+  "menu/page_size": 5
+  "reverse_lookup/prism": double_pinyin_mspy
+  "reverse_lookup/tips": 〔双拼〕
+  "reverse_lookup/preedit_format": []
+  "switches/@0/reset": 1
+  "translator/enable_sentence": false
+  "translator/max_phrase_length": 1
+  "translator/enable_user_dict": false
+  "simplifier/excluded_types": [ reverse_lookup ]
+  "speller/max_code_length": 5
+  "speller/auto_select": true
+  "speller/auto_select_unique_candidate": true
